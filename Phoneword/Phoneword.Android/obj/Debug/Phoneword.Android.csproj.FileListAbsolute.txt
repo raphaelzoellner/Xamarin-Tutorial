@@ -1,0 +1,126 @@
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\com.companyname.Phoneword.apk
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\com.companyname.Phoneword-Signed.apk
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csprojResolveAssemblyReference.cache
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csproj.CoreCompileInputs.cache
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\bin\com.companyname.Phoneword.apk
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\values\styles.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\R.cs.flag
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\uploadflags.txt
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.Android.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\com.companyname.Phoneword.apk
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\com.companyname.Phoneword-Signed.apk
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\SkiaSharp.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csprojResolveAssemblyReference.cache
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.csproj.CoreCompileInputs.cache
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\Phoneword.Android.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\bin\com.companyname.Phoneword.apk
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\res\values\styles.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\R.cs.flag
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\uploadflags.txt
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.Android.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

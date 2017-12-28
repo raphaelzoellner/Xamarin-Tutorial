@@ -1,0 +1,42 @@
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.MainPage.xaml.g.cs
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.App.xaml.g.cs
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.CallHistoryPage.xaml.g.cs
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.AboutPage.xaml.g.cs
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.csprojResolveAssemblyReference.cache
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.CircleSpin.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\SkiaSharp.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.csprojResolveAssemblyReference.cache
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.MainPage.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.App.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.CallHistoryPage.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.AboutPage.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.CircleSpin.xaml.g.cs
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll
+C:\Users\Raphi\Desktop\Neuer Ordner\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.pdb

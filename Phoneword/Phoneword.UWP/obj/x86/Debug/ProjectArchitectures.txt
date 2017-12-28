@@ -1,0 +1,2 @@
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86
+C:\Users\Raphi\source\repos\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

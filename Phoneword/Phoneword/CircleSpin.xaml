@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             x:Class="Phoneword.CircleSpin"
+             Title="Circle Spin">
+    <StackLayout VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"
+                 Orientation="Vertical"
+                 Spacing="15">
+        <Entry x:Name="playerName" Text="New Player" />
+        <Button x:Name="addPlayer" Text="Add Player" Clicked="OnAddPlayer"/>
+        <Button x:Name="deleteLastPlayer" Text="Delete Last Player" Clicked="OnDeleteLastPlayer"/>
+        <Grid VerticalOptions="FillAndExpand">
+            <skia:SKCanvasView x:Name="CanvasView1" PaintSurface="OnCanvasViewPaintSurface">
+                <skia:SKCanvasView.GestureRecognizers>
+
+                    <TapGestureRecognizer Tapped="OnCanvasViewTapped" />
+                </skia:SKCanvasView.GestureRecognizers>
+            </skia:SKCanvasView>
+        </Grid>
+    </StackLayout>
+</ContentPage>
